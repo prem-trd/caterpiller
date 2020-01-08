@@ -1,0 +1,50 @@
+.fa-user-circle-o{
+    font-size: 65px;
+    padding-left: 30px;
+    padding-top: 40px;
+    color: #b03e5f;
+}
+.c-2{
+    float: right;
+    margin-right: -140px;
+    margin-top: -90px;
+}
+.c-1{
+    margin: 10px;
+    height: 160px;
+    width: 350px;
+    background-color: #d9d6d6;
+}
+.c-3{
+    color: orangered;
+}
+b{
+    font-size: 20px;
+}
+.b-1{
+    margin-left: 25px;
+}
+.c-4{
+    margin: 10px;
+    height: 160px;
+    margin-left: -70px;
+    background-color: #d9d6d6;
+}
+.fa-file-text-o, .fa-cloud-upload, .fa-signal, .fa-sitemap{
+    padding: 20px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.rounded-circle{
+    background-color: #595997;
+    width: 70px;
+    height: 70px;
+}
+.col-md-3{
+    float: left;
+}
+p{
+    margin-top: -50px;
+    margin-left: 75px;
+    width: 160px;
+}
