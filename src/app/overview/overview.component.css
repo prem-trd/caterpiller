@@ -75,3 +75,12 @@
 sub{
     font-size: 20px;
 }
+.w-1{
+    color:#FBD200;
+}
+tbody{
+    text-align: center;
+}
+thead{
+    text-align: center;
+}

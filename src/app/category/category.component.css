@@ -1,0 +1,155 @@
+.q-1{
+    padding-top: 10px;
+}
+.r-1 {
+    margin-left: 10px;
+    padding-right: 85px;
+}
+.r-2{
+    margin-left: 25px;
+}
+.fa-usd{
+    font-size: 20px;
+}
+.z-1{
+    background-color: yellow;
+    height: 30px;
+    font-size: 20px;
+    padding-left:9px;
+}
+.z-2{
+    float: right;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.z-3{
+    height: 160px;
+    background-color: #f5f5f5;
+}
+.v-1{
+    margin: 10px;
+    margin-top: 10px;
+}
+.v-2{
+    height: 35px;
+    margin-top: -10px;
+}
+.v-3{
+    font-size: 40px;
+    color: #ed263e;
+    margin-left: 5px;
+}
+.vs-3{
+    margin-left: 5px;
+    font-size: 40px;
+    color: #32bb12;
+}
+.v-4{
+    font-size: 20px;
+}
+.zx{
+    margin-right: -90px;
+    height: 160px;
+}
+.xc{
+    margin-left: -80px;
+    height: 160px;
+    background-color: whitesmoke;
+    margin-right: -30px;
+}
+.cv{
+    margin-left: 100px;
+}
+.nm{
+    margin-left: -30px;
+}
+.vb{
+    margin-right: 10px;
+    height: 160px;
+    background-color: whitesmoke;
+
+}
+.vb-1{
+    height: 160px;
+    background-color: whitesmoke;
+
+}
+.cs{
+    margin: 15px;
+}
+.cs-1{
+    padding-left: 20px;
+    float: right;
+    margin-top: -30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.cs-2{
+    padding-left: 14px;
+    background-color: yellow;
+    height: 30px;
+    font-size: 20px;
+}
+.p-1{
+    margin-top: -100px;
+    font-size: 50px;
+    margin-left: 60px;
+    color: #ed243c;
+}
+.p-2{
+    margin-top: -100px;
+    font-size: 50px;
+    margin-left: 55px;
+    color: #32bb12;
+}
+.img-1{
+    margin: 30px;
+    height: 40px;
+}
+.img-2{
+    margin: 30px;
+    height: 35px;
+}
+.sub-1{
+    float: right;
+    margin-top: -60px;
+    margin-right: 90px;
+    font-size: 30px;
+}
+.g-1{
+    padding: 10px;
+}
+.g-2{
+    background-color: #f5f5f5;
+    height: 480px;
+}
+.k-1{
+    margin-top: 30px;
+}
+.k-2{
+    float: left;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+.k-3{
+    float: right;
+    background: black;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+thead{
+    background-color: black;
+    color: white;
+}
+tbody{
+    text-align: center;
+}
+.table{
+    padding-top: 5px;
+}
