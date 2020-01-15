@@ -21,7 +21,7 @@ export class BuComponent implements OnInit {
           plotShadow: false
        },
        title: {
-          text:'Top 10 Supplier By Spend'
+          text:'Total Spend'
        },
        tooltip: {
           pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -31,8 +31,10 @@ export class BuComponent implements OnInit {
              allowPointSelect: true,
              cursor: 'pointer',
              dataLabels: {
-                enabled: false,
-             }
+                enabled: true,
+                format: '{point.percentage:.0f} %'
+             },
+             showInLegend: true
           }
        },
        credits: {
@@ -42,17 +44,14 @@ export class BuComponent implements OnInit {
           type: 'pie',
           name: 'Browser share',
           data: [
-             ['Firefox', 45.0],
-             ['IE', 26.8],
+             ['E-COMM', 28.0],
              {
-                name: 'Chrome',
-                y: 12.8,
+                name: 'AEM',
+                y: 18.0,
                 sliced: true,
                 selected: true
              },
-             ['Safari', 8.5],
-             ['Opera', 6.2],
-             ['Others', 32.7]
+             ['THOUGHT WORKS', 54.0]
           ]
        }]
     });

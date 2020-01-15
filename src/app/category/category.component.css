@@ -7,6 +7,7 @@
 }
 .r-2{
     margin-left: 25px;
+    font-size: 20px;
 }
 .fa-usd{
     font-size: 20px;
@@ -152,4 +153,21 @@ tbody{
 }
 .table{
     padding-top: 5px;
+}
+.rounded-circle{
+    background-color: #32bb12;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    margin-top: 10px;
+    float: left;
+}
+.src{
+    padding-top: 10px;
+}
+.cloud{
+    float: right;
+    font-size: 35px;
+    margin-right: 40px;
+    margin-top: -10px;
 }

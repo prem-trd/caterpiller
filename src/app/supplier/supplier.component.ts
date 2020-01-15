@@ -32,6 +32,7 @@ export class SupplierComponent implements OnInit {
              cursor: 'pointer',
              dataLabels: {
                 enabled: true,
+                format: '{point.percentage:.0f} %'
              },
              showInLegend: true
           }
@@ -43,17 +44,14 @@ export class SupplierComponent implements OnInit {
           type: 'pie',
           name: 'Browser share',
           data: [
-             ['Firefox', 45.0],
-             ['IE', 26.8],
+             ['DIGITAL', 54.0],
+             ['GIS', 28.0],
              {
-                name: 'Chrome',
-                y: 12.8,
+                name: 'GasD',
+                y: 18.0,
                 sliced: true,
                 selected: true
-             },
-             ['Safari', 8.5],
-             ['Opera', 6.2],
-             ['Others', 32.7]
+             }
           ]
        }]
     });

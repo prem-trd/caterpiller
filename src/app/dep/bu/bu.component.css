@@ -6,13 +6,13 @@
 }
 .c-2{
     float: right;
-    margin-right: -140px;
-    margin-top: -90px;
+    margin-right: -125px;
+    margin-top: -80px;
 }
 .c-1{
     margin: 10px;
     height: 160px;
-    width: 350px;
+    width: 390px;
     background-color: #f5f5f5;
 }
 .c-3{
@@ -24,27 +24,6 @@ b{
 .b-1{
     margin-left: 25px;
 }
-.c-4{
-    margin: 10px;
-    height: 160px;
-    margin-left: -70px;
-    background-color: #f5f5f5;
-}
-.fa-file-text-o, .fa-cloud-upload, .fa-signal, .fa-sitemap{
-    padding: 20px;
-    color: aliceblue;
-    font-size: 30px;
-}
-.rounded-circle{
-    background-color:#34bc14;
-    width: 70px;
-    height: 70px;
-}
-.cloud-upload{
-    background-color:#FA0028;
-    width: 70px;
-    height: 70px;
-}
 .col-md-3{
     float: left;
 }
@@ -55,7 +34,6 @@ p{
 }
 .r-1 {
     margin-left: 10px;
-    padding-right: 85px;
 }
 .r-2{
     margin-left: 25px;
@@ -80,6 +58,9 @@ p{
 .z-3{
     height: 160px;
     background-color: #f5f5f5;
+    margin-left: -10px;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 .v-1{
     margin: 25px;
@@ -97,32 +78,20 @@ p{
 .v-4{
     font-size: 20px;
 }
-.zx{
-    margin-right: -90px;
-    height: 160px;
-}
-.xc{
-    margin-left: -80px;
-    height: 160px;
-    background-color: whitesmoke;
-    margin-right: -30px;
-}
-.cv{
-    margin-left: 100px;
-}
-.nm{
-    margin-left: -30px;
-}
-.vb{
-    margin-right: 10px;
-    height: 160px;
-    background-color: whitesmoke;
 
+.xc{    
+    width: 390px;
+    height: 160px;
+    background-color: whitesmoke;
 }
+
 .vb-1{
     height: 160px;
     background-color: whitesmoke;
 
+}
+.cv{
+    margin-left: -20px;
 }
 .cs{
     margin: 15px;
@@ -141,21 +110,29 @@ p{
     height: 30px;
     font-size: 20px;
 }
+.cb{
+    margin-left: 50px;
+}
+.cb-1{
+    margin-left: 50px;
+    margin-top: -20px;
+}
 .p-1{
-    margin-top: -100px;
-    font-size: 50px;
+    margin-top: -105px;
+    font-size: 60px;
     margin-left: 60px;
     color: #ed243c;
 }
 .p-2{
-    margin-top: -100px;
-    font-size: 50px;
-    margin-left: 55px;
+    margin-top: -105px;
+    font-size: 60px;
+    margin-left: 60px;
     color: #32bb12;
 }
 .img-1{
     margin: 30px;
     height: 40px;
+    margin-top: 15px;
 }
 .img-2{
     margin: 30px;
@@ -163,9 +140,15 @@ p{
 }
 .sub-1{
     float: right;
-    margin-top: -60px;
-    margin-right: 90px;
-    font-size: 30px;
+    margin-top: -56px;
+    margin-right: 140px;
+    font-size: 35px;
+}
+.sub-2{
+    float: right;
+    margin-top: -56px;
+    margin-right: 130px;
+    font-size: 35px;
 }
 .g-1{
     padding: 10px;
